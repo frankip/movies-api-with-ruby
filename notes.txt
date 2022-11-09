@@ -1,8 +1,0 @@
-base url = http://127.0.0.1:9292/
-
-get /movies => all movies
-get /movies/:id => single movie 
-
-post /movies => creates new movies
-patch /movies/:id => updated movie
-delete /movies/:id delets a movie
